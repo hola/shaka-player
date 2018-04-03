@@ -1,3 +1,5 @@
+This repository is moved to: https://github.com/spark-mv/shaka-player
+
 # Shaka Player #
 
 Shaka Player is a JavaScript library for adaptive video streaming.
